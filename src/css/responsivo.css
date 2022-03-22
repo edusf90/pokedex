@@ -16,7 +16,7 @@
     height: 200px;
   }
   .card-pokemon .card-info {
-    padding: 60px 30px 30px;
+    padding: 60px 10px 30px;
     margin-top: -50px;
   }
 
@@ -49,5 +49,10 @@
 
   .listagem .pokemon span {
     padding-right: 5px;
+  }
+
+  .card-pokemon .card-info .status ul li,
+  .card-pokemon .card-info .abiliity ul li {
+    font-size: 12px;
   }
 }
